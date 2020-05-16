@@ -1,0 +1,17 @@
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\bin\Debug\netcoreapp2.1\csdbeapp.middle.test.deps.json
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\bin\Debug\netcoreapp2.1\csdbeapp.middle.test.runtimeconfig.json
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\bin\Debug\netcoreapp2.1\csdbeapp.middle.test.runtimeconfig.dev.json
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\bin\Debug\netcoreapp2.1\csdbeapp.middle.test.dll
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\bin\Debug\netcoreapp2.1\csdbeapp.middle.test.pdb
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\bin\Debug\netcoreapp2.1\csdbeapp.middle.dll
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\bin\Debug\netcoreapp2.1\csdbeapp.middle.pdb
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\obj\Debug\netcoreapp2.1\csdbeapp.middle.test.csprojAssemblyReference.cache
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\obj\Debug\netcoreapp2.1\csdbeapp.middle.test.csproj.CoreCompileInputs.cache
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\obj\Debug\netcoreapp2.1\csdbeapp.middle.test.AssemblyInfoInputs.cache
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\obj\Debug\netcoreapp2.1\csdbeapp.middle.test.AssemblyInfo.cs
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\obj\Debug\netcoreapp2.1\csdbeapp.middle.test.csproj.CopyComplete
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\obj\Debug\netcoreapp2.1\csdbeapp.middle.test.dll
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.api.test\obj\Debug\netcoreapp2.1\csdbeapp.middle.test.pdb

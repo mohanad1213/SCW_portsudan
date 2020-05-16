@@ -1,0 +1,6 @@
+D:\MyProjects\csdapp\csdbeapp\csdeapp.api\obj\Debug\netcoreapp2.1\csdbeapp.api.csprojAssemblyReference.cache
+D:\MyProjects\csdapp\csdbeapp\csdeapp.api\obj\Debug\netcoreapp2.1\csdbeapp.api.csproj.CoreCompileInputs.cache
+D:\MyProjects\csdapp\csdbeapp\csdeapp.api\obj\Debug\netcoreapp2.1\csdbeapp.api.RazorAssemblyInfo.cache
+D:\MyProjects\csdapp\csdbeapp\csdeapp.api\obj\Debug\netcoreapp2.1\csdbeapp.api.RazorAssemblyInfo.cs
+D:\MyProjects\csdapp\csdbeapp\csdeapp.api\obj\Debug\netcoreapp2.1\csdbeapp.api.AssemblyInfoInputs.cache
+D:\MyProjects\csdapp\csdbeapp\csdeapp.api\obj\Debug\netcoreapp2.1\csdbeapp.api.AssemblyInfo.cs

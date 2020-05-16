@@ -1,0 +1,11 @@
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.middle\bin\Release\netcoreapp2.1\csdbeapp.middle.deps.json
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.middle\bin\Release\netcoreapp2.1\csdbeapp.middle.runtimeconfig.json
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.middle\bin\Release\netcoreapp2.1\csdbeapp.middle.runtimeconfig.dev.json
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.middle\bin\Release\netcoreapp2.1\csdbeapp.middle.dll
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.middle\bin\Release\netcoreapp2.1\csdbeapp.middle.pdb
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.middle\obj\Release\netcoreapp2.1\csdbeapp.middle.csprojAssemblyReference.cache
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.middle\obj\Release\netcoreapp2.1\csdbeapp.middle.csproj.CoreCompileInputs.cache
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.middle\obj\Release\netcoreapp2.1\csdbeapp.middle.AssemblyInfoInputs.cache
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.middle\obj\Release\netcoreapp2.1\csdbeapp.middle.AssemblyInfo.cs
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.middle\obj\Release\netcoreapp2.1\csdbeapp.middle.dll
+D:\MyProjects\csdapp\csdbeapp\csdbeapp.middle\obj\Release\netcoreapp2.1\csdbeapp.middle.pdb

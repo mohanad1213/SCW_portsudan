@@ -1,0 +1,13 @@
+mohanad1213-003-site6.htempurl.com/api
+http://mohanad1213-003-site6.htempurl.com/api/home
+http://mohanad1213-003-site6.htempurl.com/api/news
+
+
+
+https://corona.lmao.ninja/v2/countries/sudan
+
+
+
+========= 
+technology:
+Visual studio 2017 + Asp.net Core 2.1 + Flutter 
